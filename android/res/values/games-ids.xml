@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <!-- app_id -->
+    <string name="app_id" translatable="false">72322782332</string>
+    <!-- package_name -->
+    <string name="package_name" translatable="false">com.sulient.pixelvoyager</string>
+
+    <!-- achievement I know Soundtrack! -->
+    <string name="achievement_i_know_soundtrack" translatable="false">CgkI_KiYto0CEAIQCQ</string>
+    <!-- achievement Idle Master -->
+    <string name="achievement_idle_master" translatable="false">CgkI_KiYto0CEAIQCg</string>
+
+    <!-- achievement EASY x500 -->
+    <string name="achievement_easy_x500" translatable="false">CgkI_KiYto0CEAIQCw</string>
+    <!-- achievement NORMAL x500 -->
+    <string name="achievement_normal_x500" translatable="false">CgkI_KiYto0CEAIQDA</string>
+    <!-- achievement HARD x500 -->
+    <string name="achievement_hard_x500" translatable="false">CgkI_KiYto0CEAIQDQ</string>
+    <!-- achievement EXTREME x500 -->
+    <string name="achievement_extreme_x500" translatable="false">CgkI_KiYto0CEAIQDg</string>
+    <!-- achievement INSANE -->
+    <string name="achievement_insane" translatable="false">CgkI_KiYto0CEAIQDw</string>
+    <!-- achievement ASCEND x500 -->
+    <string name="achievement_ascend_x500" translatable="false">CgkI_KiYto0CEAIQEA</string>
+    <!-- achievement EXTEND x500 -->
+    <string name="achievement_extend_x500" translatable="false">CgkI_KiYto0CEAIQEQ</string>
+    <!-- achievement COLLECT x500 -->
+    <string name="achievement_collect_x500" translatable="false">CgkI_KiYto0CEAIQEg</string>
+
+    <!-- achievement EASY BRONZE -->
+    <string name="achievement_easy_bronze" translatable="false">CgkI_KiYto0CEAIQEw</string>
+    <!-- achievement NORMAL BRONZE -->
+    <string name="achievement_normal_bronze" translatable="false">CgkI_KiYto0CEAIQFA</string>
+    <!-- achievement HARD BRONZE -->
+    <string name="achievement_hard_bronze" translatable="false">CgkI_KiYto0CEAIQFQ</string>
+    <!-- achievement EXTREME BRONZE -->
+    <string name="achievement_extreme_bronze" translatable="false">CgkI_KiYto0CEAIQFg</string>
+    <!-- achievement INSANE BRONZE -->
+    <string name="achievement_insane_bronze" translatable="false">CgkI_KiYto0CEAIQFw</string>
+    <!-- achievement ASCEND BRONZE -->
+    <string name="achievement_ascend_bronze" translatable="false">CgkI_KiYto0CEAIQGA</string>
+    <!-- achievement EXTEND BRONZE -->
+    <string name="achievement_extend_bronze" translatable="false">CgkI_KiYto0CEAIQGQ</string>
+    <!-- achievement COLLECT BRONZE -->
+    <string name="achievement_collect_bronze" translatable="false">CgkI_KiYto0CEAIQGg</string>
+
+    <!-- achievement EASY SILVER -->
+    <string name="achievement_easy_silver" translatable="false">CgkI_KiYto0CEAIQGw</string>
+    <!-- achievement NORMAL SILVER -->
+    <string name="achievement_normal_silver" translatable="false">CgkI_KiYto0CEAIQHA</string>
+    <!-- achievement HARD SILVER -->
+    <string name="achievement_hard_silver" translatable="false">CgkI_KiYto0CEAIQHQ</string>
+    <!-- achievement EXTREME SILVER -->
+    <string name="achievement_extreme_silver" translatable="false">CgkI_KiYto0CEAIQHg</string>
+    <!-- achievement INSANE SILVER -->
+    <string name="achievement_insane_silver" translatable="false">CgkI_KiYto0CEAIQHw</string>
+    <!-- achievement ASCEND SILVER -->
+    <string name="achievement_ascend_silver" translatable="false">CgkI_KiYto0CEAIQIA</string>
+    <!-- achievement EXTEND SILVER -->
+    <string name="achievement_extend_silver" translatable="false">CgkI_KiYto0CEAIQIQ</string>
+    <!-- achievement COLLECT SILVER -->
+    <string name="achievement_collect_silver" translatable="false">CgkI_KiYto0CEAIQIg</string>
+
+    <!-- achievement EASY GOLD -->
+    <string name="achievement_easy_gold" translatable="false">CgkI_KiYto0CEAIQIw</string>
+    <!-- achievement NORMAL GOLD -->
+    <string name="achievement_normal_gold" translatable="false">CgkI_KiYto0CEAIQJA</string>
+    <!-- achievement HARD GOLD -->
+    <string name="achievement_hard_gold" translatable="false">CgkI_KiYto0CEAIQJQ</string>
+    <!-- achievement EXTREME GOLD -->
+    <string name="achievement_extreme_gold" translatable="false">CgkI_KiYto0CEAIQJg</string>
+    <!-- achievement INSANE GOLD -->
+    <string name="achievement_insane_gold" translatable="false">CgkI_KiYto0CEAIQJw</string>
+    <!-- achievement ASCEND GOLD -->
+    <string name="achievement_ascend_gold" translatable="false">CgkI_KiYto0CEAIQKA</string>
+    <!-- achievement EXTEND GOLD -->
+    <string name="achievement_extend_gold" translatable="false">CgkI_KiYto0CEAIQKQ</string>
+    <!-- achievement COLLECT GOLD -->
+    <string name="achievement_collect_gold" translatable="false">CgkI_KiYto0CEAIQKg</string>
+
+    <!-- leaderboard EASY -->
+    <string name="leaderboard_easy" translatable="false">CgkI_KiYto0CEAIQAQ</string>
+    <!-- leaderboard NORMAL -->
+    <string name="leaderboard_normal" translatable="false">CgkI_KiYto0CEAIQAg</string>
+    <!-- leaderboard HARD -->
+    <string name="leaderboard_hard" translatable="false">CgkI_KiYto0CEAIQAw</string>
+    <!-- leaderboard EXTREME -->
+    <string name="leaderboard_extreme" translatable="false">CgkI_KiYto0CEAIQBA</string>
+    <!-- leaderboard INSANE -->
+    <string name="leaderboard_insane" translatable="false">CgkI_KiYto0CEAIQBQ</string>
+    <!-- leaderboard ASCEND -->
+    <string name="leaderboard_ascend" translatable="false">CgkI_KiYto0CEAIQBg</string>
+    <!-- leaderboard EXTEND -->
+    <string name="leaderboard_extend" translatable="false">CgkI_KiYto0CEAIQBw</string>
+    <!-- leaderboard COLLECT -->
+    <string name="leaderboard_collect" translatable="false">CgkI_KiYto0CEAIQCA</string>
+</resources>
