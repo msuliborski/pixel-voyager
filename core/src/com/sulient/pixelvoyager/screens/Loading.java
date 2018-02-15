@@ -37,9 +37,7 @@ public class Loading implements Screen {
 
     public Loading(final Main main){
         this.main = main;
-
         this.shape = new ShapeRenderer();
-
         this.progress = 0f;
 
         FreetypeFontLoader.FreeTypeFontLoaderParameter fontSmall = new FreetypeFontLoader.FreeTypeFontLoaderParameter();

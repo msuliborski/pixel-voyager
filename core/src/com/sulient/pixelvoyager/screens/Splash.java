@@ -39,7 +39,6 @@ public class Splash implements Screen {
     @Override
     public void show() {
         spriteBatch = new SpriteBatch();
-
         this.shape = new ShapeRenderer();
 
         tweenManager = new TweenManager();

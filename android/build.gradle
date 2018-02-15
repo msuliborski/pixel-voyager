@@ -7,7 +7,7 @@ android {
             storePassword 'suliborski'
         }
     }
-    buildToolsVersion "27.0.1"
+    buildToolsVersion "27.0.3"
     compileSdkVersion 27
     sourceSets {
         main {
@@ -139,5 +139,5 @@ idea {
 }
 
 dependencies {
-    compile 'com.google.android.gms:play-services-auth:11.4.2'
+    compile 'com.google.android.gms:play-services-auth:11.8.0'
 }

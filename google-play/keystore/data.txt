@@ -1,0 +1,65 @@
+﻿
+Password: suliborski
+
+Alias: pixelvoyager
+Password: suliborski
+Validity: 200y
+
+F & L name: Michał Suliborski
+Org. Unit: Suliborski Entertainment
+org: Suliborski Entertainment
+City: Łódź
+state: łódzkie
+code: PL
+
+
+SHA1: B8:94:B0:0F:CE:84:C0:95:6B:6D:60:9B:9E:C3:F9:01:6D:12:CA:4F
+
+Client ID: 72322782332-2g8qs1eltr40d06j4gkch8bbd18t68bj.apps.googleusercontent.com
+
+App ID: 72322782332
+
+
+
+
+
+
+
+
+
+
+--------reszta stara
+
+C:\Program Files\Java\jdk1.8.0_40\bin>keytool -list -v -keystore D:\keystore.jks
+ -alias Specu3800 -storepass Suliborski123 -keypass Suliborski123
+Alias name: Specu3800
+Creation date: 2015-07-16
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Michał Suliborski, OU=SuliborskiEntertainment, O=SuliborskiEntertainme
+nt, L=Łódź, ST=łódzkie, C=PL
+Issuer: CN=Michał Suliborski, OU=SuliborskiEntertainment, O=SuliborskiEntertainm
+ent, L=Łódź, ST=łódzkie, C=PL
+Serial number: 1bdba078
+Valid from: Thu Jul 16 16:44:24 CEST 2015 until: Sat Jun 22 16:44:24 CEST 2115
+Certificate fingerprints:
+         MD5:  26:63:B2:F9:4B:83:E0:CB:5F:6E:83:AB:A0:21:F9:01
+         SHA1: AF:C0:B8:37:D7:F3:0D:4E:17:FF:03:6F:C6:F4:DB:75:36:72:31:DC
+         SHA256: D9:9C:DA:91:91:83:98:E2:30:C2:10:37:BB:2F:7E:0B:38:92:04:5F:EA:
+6D:62:28:63:44:8F:4B:F8:A3:B9:5C
+         Signature algorithm name: SHA256withRSA
+         Version: 3
+
+Extensions:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 30 90 08 2C 71 9A D7 88   85 32 3B 76 5E 85 B7 F6  0..,q....2;v^...
+0010: A8 CC 52 09                                        ..R.
+]
+]
+
+
+
