@@ -604,7 +604,7 @@ public class Game implements Screen {
             else if (currentScore >= 25)
                 spriteBatch.draw(medalGold.getSprite(), medalGold.getX(), medalGold.getY(), medalGold.getWidth(), medalGold.getHeight());
 
-            float bestScoreWidth = ((float) (Math.floor(bestScore * 1000) / 1000) + "").length() * fontMedium.getSpaceWidth();
+            float bestScoreWidth = ((float) (Math.floor(bestScore * 1000) / 1000) + "").length() * fontMedium.getSpaceXadvance();
             if (shipIsDead) {
                 spriteBatch.draw(scoreTableSprite, scoreTableX, scoreTableY, scoreTableWidth, scoreTableHeight);
                 spriteBatch.draw(infoGameLevel, screenW / 2 - scoreTableWidth / 2, scoreTableY - scoreTableWidth / 12, scoreTableWidth, scoreTableWidth / 12);

@@ -3,12 +3,12 @@ android {
         release {
             keyAlias 'pixelvoyager'
             keyPassword 'suliborski'
-            storeFile file('C:/Android/workspace/Pixel Voyager/google-play/keystore/keystore.jks')
+            storeFile file('google-play/keystore/keystore.jks')
             storePassword 'suliborski'
         }
     }
-    buildToolsVersion "27.0.3"
-    compileSdkVersion 27
+    buildToolsVersion "28.0.3"
+    compileSdkVersion 28
     sourceSets {
         main {
             manifest.srcFile 'AndroidManifest.xml'
@@ -25,7 +25,7 @@ android {
     defaultConfig {
         applicationId "com.sulient.pixelvoyager"
         minSdkVersion 15
-        targetSdkVersion 27
+        targetSdkVersion 28
         signingConfig signingConfigs.release
     }
     productFlavors {
@@ -139,5 +139,5 @@ idea {
 }
 
 dependencies {
-    compile 'com.google.android.gms:play-services-auth:11.8.0'
+    compile 'com.google.android.gms:play-services-auth:16.0.1'
 }
