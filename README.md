@@ -23,7 +23,7 @@ $ git clone https://github.com/msuliborski/pixel-voyager
 ```
 
 ### Building
-Open project in Android Studio and install all dependencies needed. Currently project is compatible with Android 10 (SDK 29).
+Open project in Android Studio and install all dependencies needed. Currently project is compatible with Android 10 (SDK 29). </br>
 After opening project in Android Studio, in order to run game as native java application it is necessary to tweak run configuration. When project builds successfully and is indexed properly, one needs to navigate to `desktop/java/com.sulient.pixelvoyager`, right-click it and chose `Run:'DesktopLauncher.main()'`. After that, in top-right corner `Edit configurations...` and edit `Working directory` in such way it ends with `(...)/pixel-voyager/android/assets` instead of just `(...)/pixel-voyager`.
 
 ## Built with
