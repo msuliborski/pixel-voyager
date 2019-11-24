@@ -1,4 +1,5 @@
-# Pixel Voyager
+<h1><img width="25" src="android/res/drawable-xxhdpi/ic_launcher.png">Pixel Voyager</h1>
+
 Simple game in which you have to avoid balls and survive as long as possible
 <br/>
 <p align="center">
